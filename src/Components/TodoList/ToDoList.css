@@ -39,3 +39,13 @@ button {
     padding: 5px;
     cursor: pointer;
 }
+
+.todo-list {
+    flex: 70%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding-top: 50px;
+    flex-direction: column;
+}
+
